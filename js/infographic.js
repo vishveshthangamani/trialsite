@@ -87,7 +87,7 @@ function info_graphic_init()
 	onyx_bg = document.querySelector('.onyx');
 	hud = document.querySelector('.hud');
 	replay_button = document.querySelector('.play-again-button');
-	replay_button.addEventListener('click', on_replay);
+	//replay_button.addEventListener('click', on_replay);
 
 	sharing = document.querySelector('.sharing');
 

@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+.navbar {
+  background: none;
+  border: none;
+}
+
+/* .white-menu {
+  color:  rgb(255, 174, 0)!important;
+} */
+
+#footer {
+  height: inherit;
+}
+
+.footer-dark, .copyright {
+  width: 100% !important;
+}

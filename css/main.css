@@ -7,9 +7,14 @@ body {
   border: none;
 }
 
-/* .white-menu {
-  color:  rgb(255, 174, 0)!important;
-} */
+a.white-menu:hover {
+  color: orange !important;
+}
+
+.white-menu {
+  color:  #FFF !important;
+  font-size: 20px;
+}
 
 #footer {
   height: inherit;
@@ -17,4 +22,8 @@ body {
 
 .footer-dark, .copyright {
   width: 100% !important;
+}
+
+.navbar {
+  padding: 2% 5% 0% 0%;
 }
